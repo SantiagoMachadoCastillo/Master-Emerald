@@ -35,9 +35,9 @@ function setup() {
   triangle(320,420, 460,250, 375,250)
 
   //Estrella amarilla
-  noStroke()
-  fill(255, 230, 0)
-  star(408, 180, 6, 12, 5)
+  Stroke(255, 255, 0)
+  fill(255)
+  star(438, 190, 25, 50, 4)
 }
 
 function draw() {
